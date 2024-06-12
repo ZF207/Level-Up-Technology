@@ -1,0 +1,474 @@
+@media (max-width: 600px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+    width: 100% !important; 
+  }
+
+  .welcome {
+    text-align: center;
+    border: 1px solid rgb(19, 18, 18);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+  }
+
+  .tg {
+    position: relative;
+    margin-top: -190%;
+    width: 167%;
+    margin-left: -8%;
+  }
+
+  .tg-h2 {
+    position: absolute;
+    margin-top: -87%;
+  }
+
+  .style {
+    border: 1px solid rgba(141, 141, 141, 1);
+    width: 100%;
+    height: 310px;
+    text-align: justify;
+    padding-right: 35%;
+    padding-left: 5%;
+    padding-top: 20%;
+    border-radius: 5%;
+    background-color: #0f0c0c;
+    position: relative;
+    margin-top: 50%;
+  }
+
+  .tg-boot {
+    width: 145%;
+    padding-top: 200%;
+    position: relative;
+    margin-top: -100%;
+    z-index: 1;
+    padding-right: 0;
+  }
+
+  element.style {
+    margin-top: 0;
+  }
+
+  element.style {
+    margin-top: 0;
+  }
+
+  .marquee-space {
+    margin-right: 20px;
+  }
+
+  .block p {
+    margin-left: 35px;
+    margin-top: -20px;
+  }
+
+  .feature {
+    border: 1px solid rgba(141, 141, 141, 1);
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    padding-left: 7%;
+    padding-top: 7%;
+    padding-right: 10%;
+    font-size: medium;
+    border-radius: 5%;
+    float: left;
+    margin-top: 5%;
+    background-color: #0f0c0c;
+    margin-left: auto;
+  }
+
+  .smart {
+    border: 1px solid rgb(19, 18, 18);
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: large;
+  }
+
+  .smart h1 {
+    font-size: 2rem !important;
+  }
+
+  .boot {
+    border: 1px solid rgb(19, 18, 18);
+    /* margin-left: 25%; */
+    margin-top: 3%;
+    width: 50%;
+    height: 50px;
+    border-radius: 5%;
+  }
+
+  .kirk {
+    text-align: center;
+    font-size: medium;
+  }
+
+  .kirk img {
+    width: 170px;
+  }
+
+  ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 80%;
+  }
+
+  button.bg-color.wallet {
+    margin-left: 40%;
+    margin-top: -100px;
+    width: 129px !important;
+    font-size: smaller;
+    height: 28.26px;
+    border-radius: 4.11px;
+  }
+
+  .margin {
+    margin-top: -380px;
+    margin-left: 50%;
+}
+
+  button.btn.btn-danger.bg-color {
+    width: 275px; 
+    height: 60px;
+    border-radius: 8px;
+  }
+
+  button.bg-color {
+    width: 181px;
+    height: 55px;
+    border-radius: 8px;
+}
+
+  button.navbar-toggler {
+    position: absolute;
+    margin-left: 80%;
+  }
+
+  button.navbar-toggler {
+    position: relative;
+    margin-top: -100px;
+  }
+
+  div#navbarSupportedContent {
+    margin-left: -90%;
+    font-size: larger;
+  }
+
+  /* mint */
+  .mint {
+    width: 90%;
+    position: absolute;
+    margin-left: 10px;
+  }
+
+  .minted {
+    display: flex;
+    border: 1px solid red;
+    width: 160%;
+    height: 26px;
+    position: absolute;
+    background-color: red;
+    border-radius: 50px;
+    margin-left: -155%;
+    margin-top: -3px;
+  }
+
+  span.\.span {
+    border: 1px solid white;
+    height: 26px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding-top: 2px;
+    margin-left: 55%;
+    margin-top: 15px;
+    padding-left: 5%;
+    z-index: 2;
+    width: 35%;
+    position: absolute;
+  }
+
+  .buy {
+    border: 1px solid;
+    border-radius: 5%;
+    background-color: red;
+    display: flex;
+    height: 65px;
+    position: absolute;
+    margin-left: -44%;
+    margin-top: -185%;
+    width: 85%;
+    border-radius: 7%;
+  }
+
+  h4.d-flex {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5%;
+    font-size: medium;
+  }
+
+  #buy {
+    width: 25%;
+    background-color: white !important;
+    color: black;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 60%;
+    font-size: larger;
+  }
+
+  .key {
+    margin-top: 280%;
+    width: 200%;
+    margin-left: -110%;
+  }
+
+  .counter {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    border: 1px solid rgba(72, 72, 72, 1);
+    width: 80%;
+    height: 43px;
+    padding-left: 20%;
+    margin-left: auto;
+    margin-right: 30%;
+  }
+
+  button.btn-mint {
+    margin-left: -92%;
+    margin-right: 30%;
+    width: 40%;
+    height: 35px;
+    border-radius: 5%;
+    background-color: red;
+    position: relative;
+    margin-top: 20%;
+  }
+
+  .mint-form {
+    background-color: rgba(15, 12, 12, 1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border: 1px solid rgba(141, 141, 141, 1);
+  }
+
+  .total {
+    font-size: 18px;
+    /* font-weight: bold; */
+    color: rgba(72, 72, 72, 1);
+    margin-left: 12%;
+    margin-top: 5%;
+  }
+
+  #mx-4 {
+    margin-left: 2.5rem !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1240px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+    width: 100% !important;
+  }
+
+  button#btn {
+    position: absolute;
+    right: 0;
+}
+
+button#btn {
+  top: 50px;
+}
+
+div#navbarSupportedContent {
+  font-size: 25px;
+  width: 60%;
+  margin-left: 70%;
+}
+
+  ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 25%;
+  }
+
+  button.bg-color.wallet {
+    margin-left: 70%;
+    width: 20%;
+    margin-top: -100px;
+  }
+
+  .style {
+    border: 1px solid rgba(141, 141, 141, 1);
+    width: 50%;
+    height: 250px;
+    text-align: justify;
+    padding-right: 10%;
+    padding-left: 3%;
+    padding-top: 5%;
+    border-radius: 5%;
+    background-color: #0f0c0c;
+  }
+
+  .feature {
+    height: 300px;
+  }
+
+  .smart h1 {
+    font-size: 2.5rem;
+  }
+
+  .marquee-space {
+    margin-right: 40px;
+  }
+
+  .minted {
+    display: flex;
+    border: 1px solid red;
+    width: 27%;
+    height: 26px;
+    position: absolute;
+    background-color: red;
+    border-radius: 50px;
+    margin-left: -28%;
+    margin-top: -3px;
+  }
+
+  .buy {
+    border: 1px solid;
+    border-radius: 5%;
+    background-color: red;
+    display: flex;
+    height: 85px;
+    position: relative;
+    width: 130%;
+    margin-left: -30%;
+    margin-top: 15%;
+  }
+
+  #buy {
+    width: 20%;
+    background-color: white !important;
+    color: black;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 60%;
+    font-size: larger;
+    border-radius: 10%;
+  }
+
+  button.btn-mint {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 40px;
+    border-radius: 5%;
+    background-color: red;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1199px) {
+  ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 65px;
+  }
+
+  li.nav-item {
+    width: max-content;
+  }
+
+  .logo {
+    width: 40%;
+    margin-left: -5px;
+  }
+
+  .block p {
+    margin-left: 10px;
+    margin-top: -30px;
+    font-size: larger;
+    font-weight: bolder;
+  }
+
+  button#connect-wallet {
+    position: absolute;
+    right: 0;
+  }
+
+  button.bg-color.wallet {
+    margin-left: 25%;
+    width: 20%;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1241px) {
+  ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 115px;
+  }
+
+  button#connect-wallet {
+    position: absolute;
+    right: 0;
+  }
+
+  li.nav-item {
+    width: max-content;
+  }
+
+  .logo {
+    width: 20%;
+    margin-left: -10px;
+  }
+
+  .block p {
+    margin-left: 10px;
+    margin-top: -30px;
+    font-size: larger;
+    font-weight: bolder;
+  }
+
+  button.bg-color.wallet {
+    margin-left: 25%;
+    width: 20%;
+    margin-top: 0px;
+  }
+
+  div#navbarSupportedContent {
+    font-size: 25px;
+    width: 60%;
+    margin-left: -35%;
+}
+
+
+}
+
+@media (min-width: 1241px) and (max-width: 1399px) {
+  ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: -65px;
+  }
+
+  button#connect-wallet {
+    position: absolute;
+    right: 0;
+  }
+}
+
+@media (min-width:1300px){
+  button#connect-wallet {
+    position: absolute;
+    right: 0;
+  }
+}
